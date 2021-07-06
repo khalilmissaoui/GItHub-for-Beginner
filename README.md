@@ -36,7 +36,7 @@ The main important commands after `git` are:
 ---
 
 ### 🎏 here is probably your favourite part hahaha : 
-> :heavy_exclamation_mark: you should be having an existing repository in your github account and  ssh key linked wuth ur github account  
+> :heavy_exclamation_mark: you should be having an existing repository in your github account and  [SSH_key](#abcde)  linked with ur github account  
 
   ✍️  $ git init
   
@@ -106,5 +106,7 @@ https://www.git-tower.com/learn/git/faq/difference-between-git-fetch-git-pull/
 https://www.git-tower.com/learn/git/commands/git-pull/
 
 https://medium.com/@pinglinh/how-to-use-git-pull-80ad77a8afc6
+
+ **<a name="abcde">SSH_key</a> configuration** :  https://www.youtube.com/watch?v=WgZIv5HI44o
  
  
