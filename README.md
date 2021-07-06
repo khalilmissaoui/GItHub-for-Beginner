@@ -55,7 +55,11 @@ _this would push to ur default branch_
 
 source : 
 https://stackoverflow.com/questions/42820840/how-to-push-changes-to-branch
+ 
 https://www.atlassian.com/git/tutorials/using-branches/git-merge
+ 
 https://www.varonis.com/blog/how-to-merge-in-git/
+ 
 https://www.git-tower.com/learn/git/commands/git-push/
+ 
 https://www.git-tower.com/learn/git/faq/difference-between-git-fetch-git-pull/
