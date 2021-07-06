@@ -17,7 +17,7 @@ The main important commands after `git` are:
 ├──  **merge**: use this command to merge two branches in the remote repository .  
 ├──  **fetch** : the fetch command downloads changes from ur remote repository  **but** it doesn't changes your **local**  working files (safe mode ✔️)
 ├──  **pull**: **in contrast of fetch command ** this command is used to update your current branch (local files) with the latest changes from your remote         │    repository. 
-└──  **clone**: This command downloads an existing remote repository to your local computer usually using the url your find after clicking the code icon  .
+└──  **clone**: This command downloads an existing remote repository to your local computer usually using the url your find after clicking the code icon  
 ![code](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fhelp.github.com%2Fassets%2Fimages%2Fhelp%2Frepository%2Fcode-button.png&f=1&nofb=1)
   
 
